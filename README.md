@@ -6,12 +6,12 @@ This is a collection of how-tos, demos, examples, and tutorials that should help
 
 We use [GitHub](https://github.com) for a lot on the Newport Data Project (including hosting this website). The cool cats at GitHub have [this nice guide](https://guides.github.com/activities/hello-world/) to get you going.
 
-* [Python guides](http://newportdataproject.org/tutorials/python/)
+* [Python guides](http://newportdataproject.org/guides/python/)
 
 
 
 ## Contributing
 
-If you want to see something added, or if a particular guide doesn't work quite the way it's supposed to, [open an issue on GitHub](https://github.com/NewportDataProject/tutorials/issues/new). 
+If you want to see something added, or if a particular guide doesn't work quite the way it's supposed to, [open an issue on GitHub](https://github.com/NewportDataProject/guides/issues/new). 
 
-_Better yet,_ clone the [tutorials repository](https://github.com/NewportDataProject/tutorials) and add a tutorial that covers something new!
+_Better yet,_ clone the [guides repository](https://github.com/NewportDataProject/guides) and add a tutorial that covers something new!
