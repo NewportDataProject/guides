@@ -19,7 +19,7 @@ Paul's favorite python distribution is [Anaconda](https://www.continuum.io/anaco
 
 Here are some tutorials to get you familiar with the language.
 
-* ​[First steps in Python](https://github.com/NewportDataProject/tutorials/blob/master/python/python-first-steps.ipynb)
+* ​[First steps in Python](https://github.com/NewportDataProject/guides/blob/master/python/python-first-steps.ipynb)
 
 ## Good
 
